@@ -11,6 +11,9 @@
     },
     "com.llealloo.audiolink": {
       "version": "1.4.0"
+    },
+    "io.z3y.github.shadergraph": {
+      "version": "1.0.6"
     }
   },
   "locked": {
@@ -30,6 +33,10 @@
     },
     "com.llealloo.audiolink": {
       "version": "1.4.0",
+      "dependencies": {}
+    },
+    "io.z3y.github.shadergraph": {
+      "version": "1.0.6",
       "dependencies": {}
     }
   }
